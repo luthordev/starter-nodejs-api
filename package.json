@@ -1,0 +1,31 @@
+{
+  "name": "starter-nodejs-api",
+  "version": "1.0.0",
+  "description": "NodeJS + MongoDB",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "ip": "^1.1.5",
+    "mongoose": "^6.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "create-crud": "node devTools/generateCRUD.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luthordev/starter-nodejs-api.git"
+  },
+  "keywords": [
+    "nodejs api",
+    "nodejs mongodb api",
+    "mongodb starter api",
+    "starter nodejs api"
+  ],
+  "author": "Luthordev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luthordev/starter-nodejs-api/issues"
+  },
+  "homepage": "https://github.com/luthordev/starter-nodejs-api#readme"
+}
