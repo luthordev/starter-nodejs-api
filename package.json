@@ -9,6 +9,7 @@
   },
   "scripts": {
     "serve": "node .",
-    "dev": "nodemon ."
+    "dev": "nodemon .",
+    "gui": "node gui/index.js"
   }
 }
